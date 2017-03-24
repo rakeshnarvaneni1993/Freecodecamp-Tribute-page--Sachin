@@ -1,0 +1,29 @@
+body{
+  margin-top: 60px;
+
+}
+#image{
+  width:95%;
+  height:90%;
+  margin-top: 60px;
+  /*position:relative;*/
+  /*left:50px;*/
+}
+.container{
+  text-align: center;
+}
+.text{
+  text-align: left;
+  width:80%;
+  position: relative;
+  left:135px;
+}
+footer{
+  text-align: center;
+}
+
+.fixed-top{
+  text-align: center;
+  left:440px;
+  padding:5px;
+}
